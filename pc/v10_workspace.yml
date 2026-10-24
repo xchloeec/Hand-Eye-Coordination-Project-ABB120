@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+min_x_mm: 320.
+max_x_mm: 540.
+min_y_mm: -160.
+max_y_mm: 120.

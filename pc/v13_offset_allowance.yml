@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+note: "mm of extra offset per mm OUTSIDE the P1-P9 box, per side; Y minus = camera-view left (away from the arm). Set from the TEST page."
+gain_x_minus: 0.
+gain_x_plus: 0.
+gain_y_minus: 3.0000000000000002e-02
+gain_y_plus: 0.
+cap_mm: 8.
+centre_y_minus_per_mm: 2.9999999999999999e-02
+centre_y_plus_per_mm: 0.
+centre_y_minus_red: 2.0000000000000000e-02
+centre_y_plus_red: 0.
+centre_y_minus_green: 2.5000000000000001e-02
+centre_y_plus_green: 0.
+centre_y_minus_blue: 1.0000000000000000e-02

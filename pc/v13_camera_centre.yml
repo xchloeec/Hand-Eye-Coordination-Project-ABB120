@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+note: Set enabled 1 only after MEASURING the robot XY directly under the camera (a block there shows no side face)
+enabled: 0
+nadir_x_mm: 510.
+nadir_y_mm: 28.
+side_mm_per_mm: 4.0000000000000001e-02

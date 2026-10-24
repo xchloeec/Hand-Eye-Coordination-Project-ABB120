@@ -59,4 +59,3 @@ Software workspace checks and camera supervision are task checks. Controller STO
 This is the final project snapshot from `1_Final`. Build outputs, Visual Studio caches, duplicate ZIP archives, session captures, diagnostic logs and the previous runtime cycle journal are excluded. The original local files are retained separately.
 
 The bundled libserialport code is third-party work; see its README and source notices. No new license is assigned to it by this repository.
-

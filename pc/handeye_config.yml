@@ -1,0 +1,46 @@
+%YAML:1.0
+---
+dynamicTrimX: 0.
+dynamicTrimY: 0.
+allowRepeatPickups: 0
+processedBlocks:
+   - 0
+   - 0
+   - 0
+   - 0
+   - 0
+   - 0
+   - 0
+   - 0
+   - 0
+autoProposal: 0
+learnedWidthPx: 0.
+learnedHeightPx: 0.
+learnedResolution: [ 0, 0 ]
+sizeCapturePath: ""
+verifiedMap: 1
+mapped: 9
+points:
+   - [ 222, 228 ]
+   - [ 292, 220 ]
+   - [ 364, 212 ]
+   - [ 223, 302 ]
+   - [ 302, 288 ]
+   - [ 365, 277 ]
+   - [ 226, 363 ]
+   - [ 301, 356 ]
+   - [ 375, 347 ]
+zone0: [ 0, 0 ]
+zoneDefined0: 0
+zone1: [ 0, 0 ]
+zoneDefined1: 0
+zone2: [ 0, 0 ]
+zoneDefined2: 0
+satMin: 65
+valMin: 60
+hue1: 0
+tol1: 12
+hue2: 60
+tol2: 15
+hue3: 110
+tol3: 15

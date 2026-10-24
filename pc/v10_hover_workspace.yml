@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+min_x_centre_mm: 320.
+max_x_centre_mm: 550.
+min_y_centre_mm: -276.
+max_y_centre_mm: 90.
